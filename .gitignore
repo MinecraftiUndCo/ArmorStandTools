@@ -1,8 +1,7 @@
 .idea/
 libs/
 out/
-ArmorStand.iml
 /bin/
-
 *.project
 .classpath
+/ArmorStandTools.iml
